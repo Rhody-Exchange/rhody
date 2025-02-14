@@ -13,7 +13,7 @@ setup(
     description="Rhody: A trading, AI, and backtesting Python library",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/rhodyexchange/rhody",
+    url="https://github.com/Rhody-Exchange/rhody",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
